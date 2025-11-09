@@ -1,0 +1,27 @@
+#core app
+streamlit
+pandas
+numpy
+pathlib
+pillow
+requests
+
+#google gemini SDK
+google-genai
+
+#vector database
+chromadb
+
+# PDF handling
+openpyxl
+python-docx
+
+#Async utillitis
+aiofiles
+
+#optional
+tqdm
+
+regex
+
+certifi
